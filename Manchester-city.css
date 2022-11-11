@@ -1,0 +1,253 @@
+body {
+    background-color: white;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+#menu {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    position: fixed;
+    background-color: 99CBFF;
+    line-height: 70px;
+    width: 100%;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: 102C54;
+}
+.tendinamenu {
+    margin: 40px;
+    padding: 15px;
+    height: 70px;
+    
+}
+.logo-city-menu {
+    width: 50px;
+    height: 50px;
+}
+.menu {
+    color: 102C54;
+    text-decoration: none;
+}
+.titolo {
+    margin-left: 400px;
+    margin-right: 400px;
+    color: 102C54;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+.testo {
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: 102C54;
+    background-color: F7F7F7;
+    padding: 10px;
+    text-align: justify;
+}
+.titoloparagrafo {
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: F7F7F7;
+    padding: 10px;
+    color: 102C54;
+    font-weight: bold;
+    text-decoration: none;
+}
+.testoparagrafo {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: F7F7F7;
+    padding: 10px;
+    text-align: justify;
+    color: 102C54;
+    text-decoration: none;
+}
+.sottotitoloparagrafo {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: 102C54;
+    background-color: F7F7F7;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+#logo {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 225px;
+    height: 300px;
+}
+.torna-in-alto {
+    color: 102C54;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.freccia-in-alto {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+}
+.termine-pagina {
+    text-align: center;
+    color: 102C54;
+    background-color: 99CBFF;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo-city-fine {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+}
+#logo-storia {
+    display: block;
+    margin:  0 auto;
+    align-items: center;
+    width: 250px;
+    height: 300px;
+}
+#record-city {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 280px;
+    height: 300px;
+}
+#maglia-city {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
+.tabellagiocatori {
+    margin: 40px;
+    padding: 15px;
+    height: 70px;
+    text-align:center;
+    font-size: 13px;
+    text-decoration: none;
+}
+.tabgiocatori {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: F7F7F7;
+    padding: 10px;
+    color: 102C54;
+}
+.testotabgiocatori {
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: 102C54;
+    background-color: F7F7F7;
+    padding: 10px;
+}
+.fototabgiocatori {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+}
+.titolodatigiocatori {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: 102C54;
+    background-color: F7F7F7;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.nomegiocatori {
+    font-size: 50px;
+    text-align: justify;
+    color: 102C54;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.numerogiocatori {
+    font-size: 200px;
+    text-align: center;
+    color: 99CBFF;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fotogiocatori {
+    margin: 0 auto;
+    display: block;
+    align-items: right;
+    width: 300px;
+    height: 300px;
+}
+.tabelladatigiocatori {
+    border-collapse: collapse;
+    float: right;
+    display: block;
+    margin-left: 30px;
+}
+.tdrtabgiocatori {
+    border: 1px solid #99CBFF;
+    text-align: justify;
+    padding: 10px;
+    font-size: 20px;
+}
+.collegamentogiocatori {
+    text-decoration: none;
+    color: 102C54;
+}
+#partner {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+}
+.elenco-partner {
+    text-decoration: none;
+}
+.elenco {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: F7F7F7;
+    padding: 10px;
+    text-align: justify;
+    color: 102C54;
+    text-decoration: none;
+}
+#allenatore {
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+}
